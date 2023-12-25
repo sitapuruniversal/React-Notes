@@ -1,4 +1,4 @@
-## React-Notes
+## React-Note
 Basic to Advanced
 
 ## What is react
