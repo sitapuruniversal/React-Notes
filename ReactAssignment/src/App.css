@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  background-color: green;
+  width: 100vw;
+  height: 100px;
+  padding: 20px;
+}
+h1{
+  text-align: center;
+  color: #fff;
+}
+.list{
+  background-color: #0d11eb;
+  padding: 20px;
+  border: 5px solid white;
+  border-radius: 10px;
+}
