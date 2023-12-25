@@ -1,4 +1,4 @@
-## Output of the Assignment 
+## Output of the Assignment in Assest Folder
 
 # 01 Create a component named "Person" that take two props - "name" and "age" The component should be display the person name and age in Paragraph element.
 
